@@ -31,3 +31,5 @@ Data augmentation is done by the following techniques:
 
 ![metrics graph](https://user-images.githubusercontent.com/105599513/176652538-0db263be-7350-45df-a7fb-83d67d794814.jpg)
 
+## License
+This project is released under [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.html)
