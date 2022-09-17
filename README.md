@@ -39,4 +39,4 @@ Natural disasters have a significant impact on urban areas, resulting in loss of
 
 [Paper Link] (https://www.mdpi.com/2072-4292/14/17/4279)
 
-The paper belongs to the Special Issue Remote Sensing for Emergency Management: Algorithms, Methods and Applications(https://www.mdpi.com/journal/remotesensing/special_issues/Geospatial_information)
+The paper belongs to the Special Issue Remote Sensing for Emergency Management: Algorithms, Methods and Applications (https://www.mdpi.com/journal/remotesensing/special_issues/Geospatial_information)
